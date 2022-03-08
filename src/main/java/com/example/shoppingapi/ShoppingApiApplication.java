@@ -8,6 +8,8 @@ public class ShoppingApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ShoppingApiApplication.class, args);
+
+		System.out.println("Start Project!!!");
 	}
 
 }
